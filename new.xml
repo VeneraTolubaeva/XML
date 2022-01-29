@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <aboutme>
-<myself>
- <first_name>Venera</first_name>
- <last_name>Tolubaeva</first_name>
- <date_birth>1987-11-30</date_birth>
- <desired_salary>2000</desired_salary>
-</myself>
-<my_animals>
- <amount>2</amount>
- <who?>cat</who?>
- <cat_1>Kilya</cat_1>
- <cat_2>Manny</cat_2>
-</aboutme>
+ <myself>
+  <first_name>Venera</first_name>
+  <last_name>Tolubaeva</first_name>
+  <date_birth>1987-11-30</date_birth>
+  <desired_salary>2000</desired_salary>
+ </myself>
+ <my_animals>
+  <amount>2</amount>
+  <who?>cat</who?>
+  <cat_1>Kilya</cat_1>
+  <cat_2>Manny</cat_2>
+ </aboutme>
