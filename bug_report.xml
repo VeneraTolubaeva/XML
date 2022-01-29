@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<bug_report>
+  <id>number</id>
+  <summary>what_where_when</summary>
+  <priority>trivial_minor_major_critical_blocer</priority>
+  <severity>
+    <first>blocer</first>
+    <second>critical</second>
+    <third>major</third>
+    <fourth>minor</fourth>
+    <fifth>trivial</fifth>
+  </severity>
+  <sprint>number</sprint>
+  <fix_version>version_number</fix_version>
+  <env>
+    <first>dev</first>
+    <second>qa</second>
+    <third>pre-prod</third>
+    <fourth>prod</fourth>
+  </env>
+  <prerequisites>data</prerequisites>
+  <steps_to_reproduce>
+    <first>1</first>
+    <second>2</second>
+    <third>3</third>
+    <fourth>4</fourth>
+  </steps_to_reproduce>
+  <ER>what_do_we_expect</ER>
+  <AR>what_happened</AR>
+  <note>data</note>
+  <attachments>
+     <first>screenshots</first>
+    <second>video</second>
+    <third>logs</third>
+  </attachments>
+</bug_report>
+    
