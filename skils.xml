@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0"? encoding="UTF-8"?>
 <basic_theory>
 	<first>bug_reports</first>
 	<second>documentation</second>
