@@ -1,4 +1,4 @@
-<?xml version="1.0"? encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <basic_theory>
 	<first>bug_reports</first>
 	<second>documentation</second>
@@ -21,7 +21,7 @@
 <API_via_Postman>
 	<first>js</first>
 	<second>API_autotests</second>
-</API_via_Postmab>
+</API_via_Postman>
 <sniffing_http_web_traffic>
 	<first>charles</first>
 	<second>fiddler</second>
@@ -61,7 +61,7 @@
 	<first>installation</first>
 	<second>configuration</second>
 	<third>use</third>
-</postgress_db>
+</postgres_db>
 <redis>
 	<first>installation</first>
         <second>configuration</second>
