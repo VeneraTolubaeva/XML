@@ -1,14 +1,15 @@
-<?xml version="1.0"? encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <aboutme>
  <myself>
   <first_name>Venera</first_name>
-  <last_name>Tolubaeva</first_name>
-  <date_birth>1987-11-30</date_birth>
+  <last_name>Tolubaeva</last_name>
+  <date_birth>1987-11-30"</date_birth>
   <desired_salary>2000</desired_salary>
  </myself>
  <my_animals>
   <amount>2</amount>
-  <who?>cat</who?>
-  <cat_1>Kilya</cat_1>
-  <cat_2>Manny</cat_2>
- </aboutme>
+  <who>cat</who>
+  <first_cat>Kilya</first_cat>
+  <second_cat>Manny</second_cat>
+ </my_animals>
+</aboutme>
