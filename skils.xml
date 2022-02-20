@@ -1,71 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<basic_theory>
-	<first>bug_reports</first>
-	<second>documentation</second>
-	<third>types</third>
-	<fourth>methods</fourth>
-	<fifth>testing_areas</fifth>
-	<sixth>SDLC</sixth>
-	<seventh>STLC</seventh>
-</basic_theory>
-<http>
-	<first>methods_of_requests</first>
-	<second>response_codes</second>
-	<third>structures_request_and_response</third>
-</http>
-<JSON>
-	<first>structure</first>
-</JSON>
-<XML>structure</XML>
-<CS_arhitecture>what_is_it</CS_arhitecture>
-<API_via_Postman>
-	<first>js</first>
-	<second>API_autotests</second>
-</API_via_Postman>
-<sniffing_http_web_traffic>
-	<first>charles</first>
-	<second>fiddler</second>
-</sniffing_http_web_traffic>
-<devtools>
-	<first>chrome</first>
-	<second>firefox</second>
-</devtools>
-<vpn>what_is_it_and_how_it_works</vpn>
-<mobile_testing>
-	<first>features_IOS</first>
-	<second>android</second>
-	<third>guidelines</third>
-	<fourth>XCode</fourth>
-	<fifth>android_studio</fifth>
-	<sixth>ADB</sixth>
-	<seventh>vpn_on_IOS_and_android</seventh>
-	<eighth>mobile_traffic_via_Charles_and_Fiddler</eighth>
-</mobile_testing>
-<terminal_Linux>
-	<first>copy</first>
-	<second>create</second>
-	<third>view</third>
-	<fourth>move</fourth>
-</terminal_Linux>
-<sql>
-	<first>create</first>
+<group_26>
+    <basic_theory>
+        <first>bug_reports</first>
+        <second>documentation</second>
+        <third>types</third>
+        <fourth>methods</fourth>
+        <fifth>testing_areas</fifth>
+        <sixth>sdlc</sixth>
+        <seventh>stlc</seventh>
+    </basic_theory>
+    <http>
+        <methods_request>true</methods_request>
+        <response_codes>true</response_codes>
+        <structures>request_and_response</structures>
+    </http>
+    <json>
+        <structure>true</structure>
+    </json>
+    <XML>structure</XML>
+    <CS_arhitecture>what_is_it</CS_arhitecture>
+    <API_via_Postman>
+        <first>js</first>
+        <second>API_autotests</second>
+    </API_via_Postman>
+    <sniffing_http_web_traffic>
+        <first>charles</first>
+        <second>fiddler</second>
+    </sniffing_http_web_traffic>
+    <devtools>
+        <first>chrome</first>
+        <second>firefox</second>
+    </devtools>
+    <vpn>what_is_it_and_how_it_works</vpn>
+    <mobile_testing>
+        <first>features_IOS</first>
+        <second>android</second>
+        <third>guidelines</third>
+        <fourth>XCode</fourth>
+        <fifth>android_studio</fifth>
+        <sixth>ADB</sixth>
+        <seventh>vpn_on_IOS_and_android</seventh>
+        <eighth>mobile_traffic_via_Charles_and_Fiddler</eighth>
+    </mobile_testing>
+    <terminal_Linux>
+        <first>copy</first>
+        <second>create</second>
+        <third>view</third>
+        <fourth>move</fourth>
+    </terminal_Linux>
+    <sql>
+        <first>create</first>
         <second>delete</second>
         <third>drop</third>
         <fourth>insert_into</fourth>
         <fifth>select</fifth>
         <sixth>from</sixth>
-	<seventh>where</seventh>
-	<eighth>join</eighth>
-</sql>
-<postgres_db>
-	<first>installation</first>
-	<second>configuration</second>
-	<third>use</third>
-</postgres_db>
-<redis>
-	<first>installation</first>
+        <seventh>where</seventh>
+        <eighth>join</eighth>
+    </sql>
+    <postgres_db>
+        <first>installation</first>
         <second>configuration</second>
         <third>use</third>
-</redis>
-<Jmeter>load_testing</Jmeter>
-<Python>learning_basics</Python>
+    </postgres_db>
+    <redis>
+        <first>installation</first>
+        <second>configuration</second>
+        <third>use</third>
+    </redis>
+    <Jmeter>load_testing</Jmeter>
+    <Python>learning_basics</Python>
+</group_26>
