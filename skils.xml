@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<group_26>
+<course_program>
     <basic_theory>
         <first>bug_reports</first>
         <second>documentation</second>
@@ -70,4 +70,4 @@
     </redis>
     <Jmeter>load_testing</Jmeter>
     <Python>learning_basics</Python>
-</group_26>
+</course_program>
